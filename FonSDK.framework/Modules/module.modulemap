@@ -1,0 +1,6 @@
+framework module FonSDK {
+  umbrella header "FonSDK.h"
+
+  export *
+  module * { export * }
+}
